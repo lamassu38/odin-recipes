@@ -3,7 +3,7 @@ height: 300px;
 width: 300px;
 padding: auto;
 }
-p{
+p, ul{
     width: 600px;
 }
 th, td {
@@ -14,3 +14,12 @@ h1,h2,h3, .section{
     justify-content: center;
     align-items: center;
 } 
+.conteiner {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 3px;
+    justify-content: flex-end;
+}
+.item{
+    margin: 3px;
+}
