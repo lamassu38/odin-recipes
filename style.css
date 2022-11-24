@@ -14,7 +14,7 @@ h1,h2,h3, .section{
     justify-content: center;
     align-items: center;
 } 
-.conteiner {
+.container {
     display: flex;
     flex-wrap: wrap;
     padding: 3px;
