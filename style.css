@@ -3,13 +3,18 @@ height: 300px;
 width: 300px;
 padding: auto;
 }
-p, ul{
+p, 
+ul{
     width: 600px;
 }
 th, td {
     padding: 10px;
     }
-h1,h2,h3, .section{
+h1,
+h2,
+h3,
+h4,
+ .section{
     display:flex;
     justify-content: center;
     align-items: center;
