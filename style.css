@@ -1,3 +1,8 @@
+body {
+    background-color: antiquewhite;
+    font-size: 20px;
+    margin:50px 0px 100px 20px;
+}
 img {
 height: 300px;
 width: 300px;
@@ -14,7 +19,7 @@ h1,
 h2,
 h3,
 h4,
- .section{
+ .section {
     display:flex;
     justify-content: center;
     align-items: center;
